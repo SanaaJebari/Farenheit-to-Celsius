@@ -1,0 +1,7 @@
+# Programme that calculates my BMI
+height = 1.62 
+mass = 50
+bmi = mass / height ** 2
+print('Your BMI is...')
+print(bmi)
+print('Well Done you!')
